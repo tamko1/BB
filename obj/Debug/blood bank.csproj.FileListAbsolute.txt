@@ -1,0 +1,23 @@
+C:\Users\Wavo\Desktop\BB\blood bank\bin\Debug\blood bank.exe.config
+C:\Users\Wavo\Desktop\BB\blood bank\bin\Debug\blood bank.exe
+C:\Users\Wavo\Desktop\BB\blood bank\bin\Debug\blood bank.pdb
+C:\Users\Wavo\Desktop\BB\blood bank\obj\Debug\blood bank.csproj.AssemblyReference.cache
+C:\Users\Wavo\Desktop\BB\blood bank\obj\Debug\blood_bank.Donor.resources
+C:\Users\Wavo\Desktop\BB\blood bank\obj\Debug\blood_bank.DonorView.resources
+C:\Users\Wavo\Desktop\BB\blood bank\obj\Debug\blood_bank.Form1.resources
+C:\Users\Wavo\Desktop\BB\blood bank\obj\Debug\blood_bank.Mainform.resources
+C:\Users\Wavo\Desktop\BB\blood bank\obj\Debug\blood_bank.Patient.resources
+C:\Users\Wavo\Desktop\BB\blood bank\obj\Debug\blood_bank.Properties.Resources.resources
+C:\Users\Wavo\Desktop\BB\blood bank\obj\Debug\blood bank.csproj.GenerateResource.cache
+C:\Users\Wavo\Desktop\BB\blood bank\obj\Debug\blood bank.csproj.CoreCompileInputs.cache
+C:\Users\Wavo\Desktop\BB\blood bank\obj\Debug\blood bank.exe
+C:\Users\Wavo\Desktop\BB\blood bank\obj\Debug\blood bank.pdb
+C:\Users\Wavo\Desktop\BB\blood bank\obj\Debug\blood_bank.BloodStock.resources
+C:\Users\Wavo\Desktop\BB\blood bank\obj\Debug\blood_bank.BloodTransfert.resources
+C:\Users\Wavo\Desktop\BB\blood bank\obj\Debug\blood_bank.Dashboard.resources
+C:\Users\Wavo\Desktop\BB\blood bank\obj\Debug\blood_bank.PatientList.resources
+C:\Users\Wavo\Desktop\BB\blood bank\obj\Debug\blood_bank.DonateBlood.resources
+C:\Users\Wavo\Desktop\BB\blood bank\obj\Debug\blood_bank.LoginDetail.resources
+C:\Users\Wavo\Desktop\BB\blood bank\obj\Debug\blood_bank.ViewEmployee.resources
+C:\Users\Wavo\Desktop\BB\blood bank\obj\Debug\blood_bank.Employee.resources
+C:\Users\Wavo\Desktop\BB\blood bank\obj\Debug\blood_bank.AdminDashboard.resources

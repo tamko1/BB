@@ -1,0 +1,186 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "I:\\BB\\blood bank\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{41B09BEA-F24D-4396-A643-8CC736047305}|blood bank.csproj|i:\\bb\\blood bank\\patientlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{41B09BEA-F24D-4396-A643-8CC736047305}|blood bank.csproj|solutionrelative:patientlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41B09BEA-F24D-4396-A643-8CC736047305}|blood bank.csproj|I:\\BB\\blood bank\\viewemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41B09BEA-F24D-4396-A643-8CC736047305}|blood bank.csproj|solutionrelative:viewemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41B09BEA-F24D-4396-A643-8CC736047305}|blood bank.csproj|I:\\BB\\blood bank\\viewemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{41B09BEA-F24D-4396-A643-8CC736047305}|blood bank.csproj|solutionrelative:viewemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41B09BEA-F24D-4396-A643-8CC736047305}|blood bank.csproj|I:\\BB\\blood bank\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41B09BEA-F24D-4396-A643-8CC736047305}|blood bank.csproj|solutionrelative:employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41B09BEA-F24D-4396-A643-8CC736047305}|blood bank.csproj|I:\\BB\\blood bank\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{41B09BEA-F24D-4396-A643-8CC736047305}|blood bank.csproj|solutionrelative:employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41B09BEA-F24D-4396-A643-8CC736047305}|blood bank.csproj|I:\\BB\\blood bank\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41B09BEA-F24D-4396-A643-8CC736047305}|blood bank.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41B09BEA-F24D-4396-A643-8CC736047305}|blood bank.csproj|I:\\BB\\blood bank\\donorview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{41B09BEA-F24D-4396-A643-8CC736047305}|blood bank.csproj|solutionrelative:donorview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41B09BEA-F24D-4396-A643-8CC736047305}|blood bank.csproj|I:\\BB\\blood bank\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{41B09BEA-F24D-4396-A643-8CC736047305}|blood bank.csproj|solutionrelative:dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41B09BEA-F24D-4396-A643-8CC736047305}|blood bank.csproj|I:\\BB\\blood bank\\donorview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41B09BEA-F24D-4396-A643-8CC736047305}|blood bank.csproj|solutionrelative:donorview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41B09BEA-F24D-4396-A643-8CC736047305}|blood bank.csproj|I:\\BB\\blood bank\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{41B09BEA-F24D-4396-A643-8CC736047305}|blood bank.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41B09BEA-F24D-4396-A643-8CC736047305}|blood bank.csproj|I:\\BB\\blood bank\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41B09BEA-F24D-4396-A643-8CC736047305}|blood bank.csproj|solutionrelative:dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "I:\\BB\\blood bank\\Employee.cs",
+              "RelativeDocumentMoniker": "Employee.cs",
+              "ToolTip": "I:\\BB\\blood bank\\Employee.cs",
+              "RelativeToolTip": "Employee.cs",
+              "ViewState": "AQIAAGYAAAAAAAAAAAAgwIgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T10:03:06.116Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Employee.cs [Design]",
+              "DocumentMoniker": "I:\\BB\\blood bank\\Employee.cs",
+              "RelativeDocumentMoniker": "Employee.cs",
+              "ToolTip": "D:\\BB\\blood bank\\Employee.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T10:03:03.414Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "I:\\BB\\blood bank\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\Wavo\\Desktop\\BB\\blood bank\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T07:40:19.266Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DonorView.cs",
+              "DocumentMoniker": "I:\\BB\\blood bank\\DonorView.cs",
+              "RelativeDocumentMoniker": "DonorView.cs",
+              "ToolTip": "I:\\BB\\blood bank\\DonorView.cs",
+              "RelativeToolTip": "DonorView.cs",
+              "ViewState": "AQIAAI0AAAAAAAAAAAAAAI0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T05:45:51.649Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DonorView.cs [Design]",
+              "DocumentMoniker": "I:\\BB\\blood bank\\DonorView.cs",
+              "RelativeDocumentMoniker": "DonorView.cs",
+              "ToolTip": "C:\\Users\\Wavo\\Desktop\\BB\\blood bank\\DonorView.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T05:45:45.683Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "I:\\BB\\blood bank\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "I:\\BB\\blood bank\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T04:49:05.164Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PatientList.cs [Design]",
+              "DocumentMoniker": "I:\\BB\\blood bank\\PatientList.cs",
+              "RelativeDocumentMoniker": "PatientList.cs",
+              "ToolTip": "I:\\BB\\blood bank\\PatientList.cs [Design]",
+              "RelativeToolTip": "PatientList.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T12:19:44.801Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ViewEmployee.cs",
+              "DocumentMoniker": "I:\\BB\\blood bank\\ViewEmployee.cs",
+              "RelativeDocumentMoniker": "ViewEmployee.cs",
+              "ToolTip": "I:\\BB\\blood bank\\ViewEmployee.cs",
+              "RelativeToolTip": "ViewEmployee.cs",
+              "ViewState": "AQIAAHcAAAAAAAAAAAAAAIkAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T18:15:53.343Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ViewEmployee.cs [Design]",
+              "DocumentMoniker": "I:\\BB\\blood bank\\ViewEmployee.cs",
+              "RelativeDocumentMoniker": "ViewEmployee.cs",
+              "ToolTip": "D:\\BB\\blood bank\\ViewEmployee.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T18:15:49.576Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Dashboard.cs [Design]",
+              "DocumentMoniker": "I:\\BB\\blood bank\\Dashboard.cs",
+              "RelativeDocumentMoniker": "Dashboard.cs",
+              "ToolTip": "C:\\Users\\Wavo\\Desktop\\BB\\blood bank\\Dashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T08:14:43.777Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Dashboard.cs",
+              "DocumentMoniker": "I:\\BB\\blood bank\\Dashboard.cs",
+              "RelativeDocumentMoniker": "Dashboard.cs",
+              "ToolTip": "I:\\BB\\blood bank\\Dashboard.cs",
+              "RelativeToolTip": "Dashboard.cs",
+              "ViewState": "AQIAAKIAAAAAAAAAAAAIwLQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T08:14:58.238Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
